@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+rasterio
+h5py
+scikit-learn
+matplotlib
+# GEE wrapper only (not needed on Colab for training)
+earthengine-api
+click
+tqdm

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/raw/
+data/interim/
+*.h5
+*.tif
+.DS_Store
