@@ -32,7 +32,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-import config
+from farmers_guide import config
 
 logger = logging.getLogger(__name__)
 

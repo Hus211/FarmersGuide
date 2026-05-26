@@ -36,7 +36,7 @@ import h5py
 import numpy as np
 import rasterio
 
-import config
+from farmers_guide import config
 
 logger = logging.getLogger(__name__)
 

@@ -43,7 +43,7 @@ import torch
 from torch import nn
 from torch.utils.data import DataLoader
 
-import config
+from farmers_guide import config
 from farmers_guide.data.dataset import (
     MaizeYieldDataset,
     read_labels,

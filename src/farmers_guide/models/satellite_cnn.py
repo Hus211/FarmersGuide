@@ -23,7 +23,7 @@ from __future__ import annotations
 import torch
 from torch import nn
 
-import config
+from farmers_guide import config
 
 
 def _conv_block(

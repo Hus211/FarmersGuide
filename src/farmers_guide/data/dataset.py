@@ -24,7 +24,7 @@ import rasterio.warp
 import torch
 from torch.utils.data import Dataset
 
-import config
+from farmers_guide import config
 
 # --- Label table ----------------------------------------------------------
 

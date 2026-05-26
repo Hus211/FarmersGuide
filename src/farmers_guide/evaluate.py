@@ -44,7 +44,7 @@ import torch
 from sklearn.linear_model import LinearRegression
 from torch.utils.data import DataLoader
 
-import config
+from farmers_guide import config
 from farmers_guide.data.dataset import (
     MaizeYieldDataset,
     spatial_kfold_split,
